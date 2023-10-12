@@ -2,7 +2,7 @@
 
 🖥️ **Personal Projects**: 
 - [http interface](https://http-me.edgecompute.app)
-- 
+- [![Website](https://img.shields.io/badge/Website-%23323232?&style=flat&logo=internet-archive&logoColor=white)](https://www.brookscunningham.com)
 
 ## 🌐 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/brookscunningham) 
