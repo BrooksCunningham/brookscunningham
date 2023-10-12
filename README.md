@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi there 👋, I am Brooks
+
+🖥️ **Personal Projects**: 
+- [http interface](https://http-me.edgecompute.app)
+- 
+
+## 🌐 Let's Connect:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/brookscunningham) 
+[![Website](https://img.shields.io/badge/Website-%23323232?&style=flat&logo=internet-archive&logoColor=white)](https://www.brookscunningham.com)
 
 <!--
 **BrooksCunningham/brookscunningham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
